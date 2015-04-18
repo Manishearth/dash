@@ -24,6 +24,7 @@ Make sure there are no trailing commas
 To install,
 
 ```
+go get github.com/Manishearth/cs733/assignment3/raft
 go get github.com/Manishearth/dash/dash
 go build github.com/Manishearth/dash/dash
 ```
