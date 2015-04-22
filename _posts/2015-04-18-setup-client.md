@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Setup - Client"
-category: doc
+category: tut
 date: 2015-04-18 23:01:46
 ---
 
 
-To setup `dash` on the client, copy the host/port keys from the server config files and list them in `config.json` in your installation folder.
+To setup `dash` on the client, copy the host/port keys from the server config files (see [server setup](2015-04-18-setup.md)) and list them in `config.json` in your installation folder.
 
 
 A typical `config.json` will look like:

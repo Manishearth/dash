@@ -18,4 +18,6 @@ and run it when it has been replicated to a majority. If a machine is booted up 
 
 
 
+This was made as a project for CS 733 (Advanced Cloud Computing) at IIT Bombay, taught by Professor Sriram Srinivasan
+
 <small>1. Currently Dash doesn't have any security model so for this to work it will need to be run as root and will be vulnerable. ECDSA-based security is planned.</small>
